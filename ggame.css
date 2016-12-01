@@ -1,0 +1,47 @@
+body{
+	background-color: purple;
+  background-image: url("scoobydoo.gif");
+  //background-image: url("success.gif");
+    
+}
+
+div{
+  margin: auto;
+  width: 500px;
+  height: 150px;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
+  border-left: 5px solid black;
+
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-family: Verdana;
+  font-size: 40px;
+  
+}
+
+h2{
+  text-align:center;
+  color: white;
+  font-family: Arial;
+
+}
+
+h3{
+  text-align: center ;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+    
+    
+}
+
+form{
+  text-align: center;
+  font-weight: bold;
+  color: yellow;
+  }
