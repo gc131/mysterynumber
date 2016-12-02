@@ -1,7 +1,6 @@
 body{
 	background-color: purple;
   background-image: url("scoobydoo.gif");
-  //background-image: url("success.gif");
     
 }
 
@@ -20,7 +19,7 @@ h1{
   text-align: center;
   color: white;
   font-family: Verdana;
-  font-size: 40px;
+  font-size: 60px;
   
 }
 
@@ -28,13 +27,14 @@ h2{
   text-align:center;
   color: white;
   font-family: Arial;
+  font-size: 30px;
 
 }
 
 h3{
   text-align: center ;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 50px;
   color: white;
     
     
@@ -45,3 +45,23 @@ form{
   font-weight: bold;
   color: yellow;
   }
+
+.movement{
+  background-color: black;
+  border-size: 100px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+
+}
+
+.msgBox{
+  background-color: black;
+  margin-top: 100px;
+  border-size: 100px;
+  color: yellow;
+  text-align: center;
+  font-size: 40px;
+
+}
